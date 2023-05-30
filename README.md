@@ -1,3 +1,3 @@
-Тест виконано на Java + Selenium + TestNG
-Безпосередньо тест знаходиться в файлі TaxerTest1/src/test/java/PageTest.java
+Тест виконано на Java + Selenium + TestNG.
+Безпосередньо тест знаходиться в файлі TaxerTest1/src/test/java/PageTest.java.
 Для корректної роботи тесту потрібно в методі certificateTest() змінній pathFile присвоїти значення, що відповідає вашому шляху до файлу сертифіката у файловій системі пристрою. 
